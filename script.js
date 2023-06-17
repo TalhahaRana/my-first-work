@@ -1,6 +1,4 @@
-//66d0b82efd58a5a4eefc0111dac8d11e key 
-
-
+ 
 let weather = {
     apiKey: "Your key here",
     fetchWeather: function (city) {
